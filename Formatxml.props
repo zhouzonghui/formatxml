@@ -1,0 +1,19 @@
+
+plugin.org.zzh.formatxml.FormatPlugin.name=FORMAT-XML
+plugin.org.zzh.formatxml.FormatPlugin.author=zhou zonghui
+
+plugin.org.zzh.formatxml.FormatPlugin.version=0.1
+plugin.org.zzh.formatxml.FormatPlugin.activate=defer
+plugin.org.zzh.formatxml.FormatPlugin.description=a plugin for formatting xml files
+
+plugin.org.zzh.formatxml.FormatPlugin.jars=dom4j-1.6.1.jar
+
+
+plugin.org.zzh.formatxml.FormatPlugin.depend.0=jdk 1.7
+plugin.org.zzh.formatxml.FormatPlugin.depend.1=jedit 05.03.00.00
+
+#plugin.org.zzh.formatxml.FormatPlugin.menu.label=XMLFormatter
+plugin.org.zzh.formatxml.FormatPlugin.menu=formatxml.formatnow
+
+#formatxml.formatnow.label=\u7acb\u5373\u7f8e\u5316
+formatxml.formatnow.label=Duang~

@@ -1,0 +1,15 @@
+<!-- Action definition file for QuickNotepad plugin -->
+<!-- $Id$
+-->
+
+<!DOCTYPE ACTIONS SYSTEM "actions.dtd">
+
+<ACTIONS>
+	<ACTION NAME="formatxml.formatnow">
+		<CODE>
+			org.zzh.formatxml.FormatPlugin.formatxml(view);
+		</CODE>
+	</ACTION>
+
+</ACTIONS>
+
